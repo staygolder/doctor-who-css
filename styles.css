@@ -61,3 +61,14 @@ body {
 	border-left-width: 15px;
 	padding:20px;
 }
+.content {
+	padding: 15px;
+}
+td {
+	text-align: left;
+	vertical-align: top;
+}
+img {
+	padding: 2px;
+	border: 2px solid #000;
+}
